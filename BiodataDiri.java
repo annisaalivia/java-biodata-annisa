@@ -14,7 +14,7 @@ public class BiodataDiri{
         System.out.println("firstname :" + firstname);
         System.out.println("lastname :" + lastname);
         System.out.println("address :" + address);
-        System.out.println("umur :" + 19 + " tahun");
+        System.out.println("umur :" + umur + " tahun");
         System.out.println("hobby :" + hobby);
         System.out.println("tinggi :" + tinggi + " cm");
         System.out.println("makanan kesukaan :" + makananKesukaan);
